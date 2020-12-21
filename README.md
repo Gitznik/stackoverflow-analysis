@@ -1,6 +1,7 @@
 # Udacity Data Science Project 1
 
 This repository contains the code I wrote for tackling project 1 in the Data Scientist Nanodegree by Udacity.
+
 You can find the Medium post here: [How to earn more in tech — according to Stack Overflow](https://gitznik.medium.com/how-to-earn-more-in-tech-according-to-stack-overflow-6838574357ec)
 
 ## Dataset
