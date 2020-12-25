@@ -13,6 +13,12 @@ This repository contains the code I wrote for tackling project 1 in the Data Sci
 Jupyter notebook containing the analysis
 * Data folder
 Folder containing the data used for this analysis.
+** survey_results_2017.csv 
+Results of the StackOverflow survey 2017
+** survey_results_2017_personal.csv
+Answers the Author gave to the survey
+** survey_results_2020.csv
+Results of the StackOverflow survey 2020
 
 ## Motivation for the project
 
